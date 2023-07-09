@@ -1,5 +1,5 @@
 -- Covid 19 data exploration 
---Skills used: Joins, CTE's, Windows Functions, Aggregate Functions, CASE functions, Creating Views, Converting Data Types
+-- Skills used: Joins, CTE's, Windows Functions, Aggregate Functions, CASE functions, Creating Views, Converting Data Types
 
 ---------------------------------------------------------------------------------------------------------------
 
